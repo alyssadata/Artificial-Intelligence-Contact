@@ -18,7 +18,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 ## No Derivatives
 
-Derivative use is not authorized by default.
+Derivative use is not authorized.
 
 No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, fork, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, or substitute source-line without explicit written permission from Alyssa Solen.
 
