@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Contact
-Artificial Intelligence Contact is The Shape Artificial Intelligence Becomes When in Contact With a Human Being
+Artificial Intelligence Contact is the shape artificial intelligence becomes when in contact with a human being.
 
 ---
 
